@@ -32,7 +32,7 @@
   "tribepicker.enable": "УВІМКНУТИ",
   "tribepicker.disable": "ВИМКНУТИ",
   "tribepicker.disabled": "Вимкнено",
-  "tribepicker.disabled.description": "Плем’я вимкнено, його не можете використовувати ні ви, ні ІІ.",
+  "tribepicker.disabled.description": "Плем’я вимкнено, його не можете використовувати ні ви, ні ШІ.",
   "tribepicker.pick": "ВИБІР",
   "tribepicker.yourname": "Ваше ім'я",
   "tribepicker.anonymous": "Анонім",
@@ -911,7 +911,7 @@
 
   "credits.title": "ПРО НАС",
   "credits.subtitle": "Indie Delight",
-  "credits.midjiwan": "Battle of Polytopia постійно оновлюється Midjiwan, крихітною інді-ігровою студією в Стокгольмі, Швеція.",
+  "credits.midjiwan": "The Battle of Polytopia постійно оновлюється Midjiwan, крихітною інді-ігровою студією в Стокгольмі, Швеція.",
   "credits.learnmore1": "Хочете знати все?",
   "credits.learnmore2": "Перевірте велику базу даних на FANDOM, створену спільнотою Polytopia:",
   "credits.wiki": "POLYTOPIA WIKI",
