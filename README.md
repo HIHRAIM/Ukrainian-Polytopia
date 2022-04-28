@@ -4,7 +4,7 @@
 1. Open settings;
 2. Select in languages «Сustom»;
 3. Paste the link there:
-4. https://raw.githubusercontent.com/HIHRAIM04/Ukrainian-Polytopia/main/uk_UA.json
+https://raw.githubusercontent.com/HIHRAIM04/Ukrainian-Polytopia/main/uk_UA.json
 
 <h3 align="left">Кастомний український переклад для гри The Battle of Polytopia.</h3>
 <h2 align="left">Інструкція з встановлення</h2>
